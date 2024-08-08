@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "depth first search PathFinding/1.0.0": {
+        "runtime": {
+          "depth first search PathFinding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "depth first search PathFinding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

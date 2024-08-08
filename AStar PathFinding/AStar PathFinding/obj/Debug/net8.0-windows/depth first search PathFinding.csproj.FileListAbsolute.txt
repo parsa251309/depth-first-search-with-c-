@@ -1,0 +1,16 @@
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\depth first search PathFinding.exe
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\depth first search PathFinding.deps.json
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\depth first search PathFinding.runtimeconfig.json
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\depth first search PathFinding.dll
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\depth first search PathFinding.pdb
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar_PathFinding.Form1.resources
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\depth first search PathFinding.csproj.GenerateResource.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\depth first search PathFinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\depth first search PathFinding.AssemblyInfoInputs.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\depth first search PathFinding.AssemblyInfo.cs
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\depth first search PathFinding.csproj.CoreCompileInputs.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\depth first search PathFinding.dll
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\refint\depth first search PathFinding.dll
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\depth first search PathFinding.pdb
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\depth first search PathFinding.genruntimeconfig.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\ref\depth first search PathFinding.dll

@@ -1,0 +1,16 @@
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\AStar PathFinding.exe
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\AStar PathFinding.deps.json
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\AStar PathFinding.runtimeconfig.json
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\AStar PathFinding.dll
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\bin\Debug\net8.0-windows\AStar PathFinding.pdb
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar_PathFinding.Form1.resources
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar PathFinding.csproj.GenerateResource.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar PathFinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar PathFinding.AssemblyInfoInputs.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar PathFinding.AssemblyInfo.cs
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar PathFinding.csproj.CoreCompileInputs.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar PathFinding.dll
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\refint\AStar PathFinding.dll
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar PathFinding.pdb
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\AStar PathFinding.genruntimeconfig.cache
+C:\Users\Parsa\Desktop\programmes\c#\windowsForm\AStar PathFinding\AStar PathFinding\obj\Debug\net8.0-windows\ref\AStar PathFinding.dll
